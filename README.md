@@ -7,3 +7,4 @@
 5) 화면에 표시할 정보, 화면 구성, 화면 간 흐름 등에 대한 표기가 잘 나타나 있는가?
 6) UI는 로그인/로그아웃 버튼의 일반적인 경우처럼 화면을 구성하는 항목들이 보편적인 위치에 자리하고 있는가?
 
+<img width="768" alt="과제1" src="https://github.com/Yeji-Yoon/personalproject/assets/148047113/e1d5ece2-d9b6-469b-a7ed-372a690a40c7">
